@@ -4,7 +4,6 @@ This repository contains a Jupyter notebook for analyzing the Titanic dataset, p
 
 ## Prerequisites
 
-Before you begin, ensure you have met the following requirements:
 - Python 3.x
 - Jupyter Notebook
 - Required Python libraries:
@@ -14,10 +13,6 @@ Before you begin, ensure you have met the following requirements:
   - seaborn
   - scikit-learn
 
-You can install the required Python libraries using pip:
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
-```
 
 ## Dataset
 
